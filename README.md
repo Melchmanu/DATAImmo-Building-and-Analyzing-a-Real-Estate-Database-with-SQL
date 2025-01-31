@@ -50,7 +50,6 @@ The following datasets were processed and integrated into the database:
 ## 📊 Tools & Technologies  
 
 - **SQL**: Used for database design, table creation, and querying.  
-- **Python**: For data preprocessing and analysis.  
 - **Draw.io / SQL Power Architect**: To create and update the relational schema.  
 - **CSV Files**: For data import/export between sources and the database.  
 - **GDPR Compliance**: Followed best practices for data protection.  
