@@ -1,6 +1,8 @@
 # DATAImmo: Building and Analyzing a Real Estate Database with SQL  
 
-![Project Banner](https://github.com/Melchmanu/Portfolio/tree/main/images/Data%20Management.jpg)
+### Presentation  
+The presentation detailing the methodology, results, and key takeaways is hosted [here](https://github.com/Melchmanu/DATAImmo-Building-and-Analyzing-a-Real-Estate-Database-with-SQL/blob/main/Melchiori_Manuel_2_support_presentation_062024.pdf).
+
 
 ## 📋 Project Overview  
 
@@ -24,8 +26,6 @@ The following datasets were processed and integrated into the database:
 - `Transactions.csv`  
 - `Valeurs-foncières nettoyé2.csv`  
 
-### Presentation  
-The presentation detailing the methodology, results, and key takeaways is hosted [here](https://github.com/Melchmanu/DATAImmo-Building-and-Analyzing-a-Real-Estate-Database-with-SQL/blob/main/Melchiori_Manuel_2_support_presentation_062024.pdf).
 
 ## 🚀 Key Features  
 
